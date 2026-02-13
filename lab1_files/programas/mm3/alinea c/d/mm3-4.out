@@ -1,0 +1,14 @@
+After resetting counter 'PAPI_L1_DCM' [x10^6]: 0.000000
+After resetting counter 'PAPI_LD_INS' [x10^6]: 0.000000
+After resetting counter 'PAPI_SR_INS' [x10^6]: 0.000000
+After resetting counter 'PAPI_L2_DCM' [x10^6]: 0.000000
+After resetting counter 'PAPI_L2_DCA' [x10^6]: 0.000000
+After stopping counter 'PAPI_L1_DCM'  [x10^6]: 3.314849
+After stopping counter 'PAPI_LD_INS'  [x10^6]: 403.055275
+After stopping counter 'PAPI_SR_INS'  [x10^6]: 134.492511
+After stopping counter 'PAPI_L2_DCM'  [x10^6]: 2.556976
+After stopping counter 'PAPI_L2_DCA'  [x10^6]: 1.448461
+  L2 HitRate: -0.765305
+Wall clock cycles [x10^6]: 353.425500
+Wall clock time [seconds]: 0.103701
+Matrix checksum: 2717908992

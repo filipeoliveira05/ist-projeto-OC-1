@@ -1,0 +1,9 @@
+After resetting counter 'PAPI_L1_DCM' [x10^6]: 0.000000
+After resetting counter 'PAPI_LD_INS' [x10^6]: 0.000000
+After resetting counter 'PAPI_SR_INS' [x10^6]: 0.000000
+After stopping counter 'PAPI_L1_DCM'  [x10^6]: 4.354277
+After stopping counter 'PAPI_LD_INS'  [x10^6]: 402.915984
+After stopping counter 'PAPI_SR_INS'  [x10^6]: 134.480203
+Wall clock cycles [x10^6]: 672.187652
+Wall clock time [seconds]: 0.197236
+Matrix checksum: 0
